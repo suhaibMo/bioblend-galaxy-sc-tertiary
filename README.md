@@ -1,2 +1,2 @@
 # bioblend-galaxy-sc-tertiary
-Run sc-tertiary galaxy workflow from command line using Bioblend API
+Run single-cell RNA-seq tertiary galaxy workflow from command line using Bioblend API
